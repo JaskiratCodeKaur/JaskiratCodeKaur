@@ -1,6 +1,6 @@
 # About Me:
-- 🎓 Cuurently 5th Semester Software Development at [Mohawk College](https://www.mohawkcollege.ca/)<br>
-- 📧 Contact me on: [jaskiratkaurmultani@gmail.com](mailto:jaskiratkaurmultani@gmail.com)<br>
+🎓 Curently 5th Semester Software Development at [Mohawk College](https://www.mohawkcollege.ca/)<br>
+📧 Contact me on: [jaskiratkaurmultani@gmail.com](mailto:jaskiratkaurmultani@gmail.com)<br>
 
 
 ## 🌐 Socials:
