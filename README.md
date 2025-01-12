@@ -1,6 +1,7 @@
 # About Me:
 🎓 Education:
-<br>Software Development | [Mohawk College](https://www.mohawkcollege.ca/) | 5th Semester<br>I am strongly interested in software development, educational technology, and AI research.<br>I am passionate about building innovative solutions with code. <br>To reach me contact on jaskiratkaurmultani@gmail.com<br>
+<br>- Software Development | [Mohawk College](https://www.mohawkcollege.ca/) | 5th Semester<br>
+- 📧 Contact me on: [jaskiratkaurmultani@gmail.com](mailto:jaskiratkaurmultani@gmail.com)<br>
 
 
 ## 🌐 Socials:
