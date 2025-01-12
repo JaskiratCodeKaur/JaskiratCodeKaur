@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello I am Jaskirat Kaur
 I am a 5th-semester Software Development student at Mohawk College.<br>I am strongly interested in software development, educational technology, and AI research.<br>I am passionate about building innovative solutions with code. <br>To reach me contact on jaskiratkaurmultani@gmail.com<br>
 
 
