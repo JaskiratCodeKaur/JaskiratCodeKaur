@@ -1,6 +1,5 @@
 # About Me:
-🎓 Education:
-<br>- Software Development | [Mohawk College](https://www.mohawkcollege.ca/) | 5th Semester<br>
+- 🎓 Software Development | [Mohawk College](https://www.mohawkcollege.ca/) | 5th Semester<br>
 - 📧 Contact me on: [jaskiratkaurmultani@gmail.com](mailto:jaskiratkaurmultani@gmail.com)<br>
 
 
