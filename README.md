@@ -1,7 +1,7 @@
 # About Me:
 🎓 Curently 5th Semester Software Development at [Mohawk College](https://www.mohawkcollege.ca/)<br>
 🌱 I'm currently learning Machine Learning, PHP<br>
-🤝 Looking to Collaborate On open Source Projects<br>
+🤝 Looking to collaborate on Open Source Projects<br>
 📧 Contact me on: [jaskiratkaurmultani@gmail.com](mailto:jaskiratkaurmultani@gmail.com)<br>
 
 
