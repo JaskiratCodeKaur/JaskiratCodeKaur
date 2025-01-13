@@ -12,6 +12,13 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YndTjEQK) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaskirat-kaur-216478290) <br><br>
 
+<a href="https://www.linkedin.com/in//">
+    <img align="left" alt=" Jaskirat Kaur | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:jaskiratkaurmultani@gmail.com">
+    <img align="left" alt="Jaskirat Kaur | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JaskiratCodeKaur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JaskiratCodeKaur&theme=radical&hide_border=false)<br/><br/>
