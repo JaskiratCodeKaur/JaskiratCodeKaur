@@ -1,5 +1,5 @@
-#  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> About Me:
-🎓 5th Semester Student of Software Development at [Mohawk College](https://www.mohawkcollege.ca/)<br>
+#  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hello There:
+🎓 I am a 5th Semester Student of Software Development at [Mohawk College](https://www.mohawkcollege.ca/)<br>
 🌱 Currently learning Full-Stack Development, AI, and Machine Learning.<br>
 💻 Passionate about building innovative software solutions and AI-powered projects.<br>
 🤝 Looking to collaborate on Open Source Projects<br>
