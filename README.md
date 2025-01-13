@@ -15,7 +15,7 @@
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect With Me:
 <a href="https://linkedin.com/in/jaskirat-kaur-216478290">
-    <img align="left" alt=" Jaskirat Kaur | Linkedin" width="30px"  height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt=" Jaskirat Kaur | Linkedin" width="30px"  height="30px" margin-left = "20px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:jaskiratkaurmultani@gmail.com">
     <img align="left" alt="Jaskirat Kaur | Gmail" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
