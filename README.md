@@ -16,8 +16,8 @@
     <img align="left" alt=" Jaskirat Kaur | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:jaskiratkaurmultani@gmail.com">
-    <img align="left" alt="Jaskirat Kaur | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+    <img align="left" alt="Jaskirat Kaur | Gmail" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a><br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JaskiratCodeKaur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
