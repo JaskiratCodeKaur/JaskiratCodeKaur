@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif?cid=ecf05e47ieep15m0052lkuks15wuggq284lf0e1b9mc4uhdd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="100%"/><br>
+<img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif?cid=ecf05e47ieep15m0052lkuks15wuggq284lf0e1b9mc4uhdd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="50%"/><br>
 #
 🎓 I am a 5th Semester Student of Software Development at [Mohawk College](https://www.mohawkcollege.ca/)<br>
 🌱 Currently learning Full-Stack Development, AI, and Machine Learning.<br>
