@@ -1,4 +1,4 @@
-# <img src="https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png" border="2px solid #000" width="100%" height="200px"/><br><h1 align="center"><img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
+# <img src="https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png" border="2px solid #000" width="100%" height="300px"/><br><h1 align="center"><img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
 </h1><br>
 
 
