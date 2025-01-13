@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 <div align="inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=JaskiratCodeKaur&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-   <span display="inline-block" width="20px"></span>
+   <p display="inline-block" width="20px"></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaskiratCodeKaur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
 </div>
 
