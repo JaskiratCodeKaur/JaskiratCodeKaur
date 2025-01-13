@@ -27,6 +27,6 @@
     <img align="left" alt="Jaskirat Kaur | Linkedin" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
   <a href="mailto:jaskiratkaurmultani@gmail.com">
-    <img align="right" alt="Jaskirat Kaur | Gmail" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Jaskirat Kaur | Gmail" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a><br><br>
 
