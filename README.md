@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=JaskiratCodeKaur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/><br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaskiratCodeKaur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Connect With Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect With Me:
 <a href="https://linkedin.com/in/jaskirat-kaur-216478290">
     <img align="left" alt=" Jaskirat Kaur | Linkedin" width="30px"  height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
