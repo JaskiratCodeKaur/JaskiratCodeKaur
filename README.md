@@ -1,5 +1,4 @@
-
-<img src="https://imgur.com/rilHVxA.png"/><br>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p> <br>
 #  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hello There!!
 🎓 I am a 5th Semester Student of Software Development at [Mohawk College](https://www.mohawkcollege.ca/)<br>
 🌱 Currently learning Full-Stack Development, AI, and Machine Learning.<br>
