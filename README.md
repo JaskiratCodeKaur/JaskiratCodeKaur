@@ -12,11 +12,11 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: inline-block; margin-right: 20px;">
+<div display="inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=JaskiratCodeKaur&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
 </div>
 
-<div style="display: inline-block;">
+<div display="inline-block;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaskiratCodeKaur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
