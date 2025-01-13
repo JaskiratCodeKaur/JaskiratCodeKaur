@@ -15,6 +15,7 @@
 # 📊 GitHub Stats:
 <div  align="inline-block">
   <img  class="githubStat" src="https://github-readme-stats.vercel.app/api?username=JaskiratCodeKaur&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <p>&nbsp;&nbsp;</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaskiratCodeKaur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
 </div>
 
@@ -28,9 +29,4 @@
   <a href="mailto:jaskiratkaurmultani@gmail.com">
     <img align="left" alt="Jaskirat Kaur | Gmail" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a><br><br>
-
-  <style>
-    .githubStat{
-      margin-right: 20px,
-  </style>
 
