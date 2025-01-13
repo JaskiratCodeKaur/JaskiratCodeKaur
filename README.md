@@ -20,7 +20,4 @@
   <a href="mailto:jaskiratkaurmultani@gmail.com">
     <img align="left" alt="Jaskirat Kaur | Gmail" width="30px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a><br><br>
----
-[![](https://visitcount.itsvg.in/api?id=JaskiratCodeKaur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
