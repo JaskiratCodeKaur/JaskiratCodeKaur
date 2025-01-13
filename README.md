@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" border="2px solid #000" width="100%" height="200px"/><br><h1 align="center">👋 Hello There!!
+# <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" border="2px solid #000" width="100%" height="200px"/><br><h1 align="center"><img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> Hello There!!
 </h1>
 🎓 I am a 5th Semester Student of Software Development at [Mohawk College](https://www.mohawkcollege.ca/)<br>
 🌱 Currently learning Full-Stack Development, AI, and Machine Learning.<br>
