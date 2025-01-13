@@ -1,68 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" border="2px solid #000" width="100%" height="200px"/><br><h1 align="center"><img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> Hello There!!
 </h1><br>
 
-# Hello There Animation
-
-Here's a cool animation that shows the "Hello there" text being typed out and deleted!
-
-![Hello There Animation](assets/hello-there-animation.gif)
-
-```java
-String[][] strs = new String[1][2];
-PFont font;
-
-void setup() {
-  size(1920, 1080);
-  font = createFont("HelveticaNeue-48.vlw", 48);
-  textFont(font);
-  frameRate(30);
-  textAlign(CENTER);
-  textSize(40);
-  background(255);
-  fill(0);
-
-  strs[0][0] = "Hello there";
-  strs[0][1] = "";
-}
-
-int i = 0;
-boolean delete = false;
-int s = 0;
-int offset = 50;
-int mainFontSize = 60;
-int secondaryFontSize = 40;
-
-void draw() {
-  background(255);
-
-  if (s < strs.length) {
-    if (strs[s][0].length() >= i && !delete) {
-      textSize(mainFontSize);
-      text(strs[s][0].substring(0, i), width / 2, height / 2 - offset);
-      i++;
-    } else {
-      if (!delete) {
-        delay(1500);
-      }
-      delete = true;
-    }
-
-    if (delete) {
-      if (i > 0) {
-        textSize(mainFontSize);
-        text(strs[s][0].substring(0, i - 1), width / 2, height / 2 - offset);
-        i--;
-      } else {
-        delete = false;
-        s++;
-        if (s == strs.length) {
-          s = 0;
-        }
-      }
-    }
-  }
-}
-
 
 🎓 I am a 5th Semester Student of Software Development at [Mohawk College](https://www.mohawkcollege.ca/)<br>
 🌱 Currently learning Full-Stack Development, AI, and Machine Learning.<br>
