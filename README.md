@@ -31,6 +31,6 @@
 
   <style>
     .githubStat{
-      margin-right: "20px",
+      margin-right: 20px,
   </style>
 
