@@ -2,7 +2,7 @@
 
 
  🎓 I am a 5th Semester Student of Software Development at [Mohawk College](https://www.mohawkcollege.ca/)<br>
- 🌱 Currently learning Full-Stack Development, AI, and Machine Learning.<br>
+ 🌱 Currently learning Laravel and Machine Learning.<br>
  💻 Passionate about building innovative software solutions and AI-powered projects.<br>
  🤝 Looking to collaborate on Open Source Projects<br>
  🌟 Constantly evolving by improving my coding skills and solving complex problems.<br>
