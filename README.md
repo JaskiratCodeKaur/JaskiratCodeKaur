@@ -3,12 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jaskirat+👋;Software+Developer+%7C+Open+Source+Enthusiast;Building+the+future+with+code+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Jaskirat+👋;Software+Developer+%7C+Open+Source+Enthusiast;Building+the+future+with+code+🚀" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaskiratcodekaur&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
 
 <br>
 
@@ -167,6 +164,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaskiratCodeKaur&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaskiratCodeKaur&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
