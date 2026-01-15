@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="profilebanner.gif" width="700" height="250">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Jaskirat+👋;Software+Developer+%7C+Open+Source+Enthusiast;Building+the+future+with+code+🚀" alt="Typing SVG" />
+  <img src="profilebanner.gif" width="900" height="200">
 </div>
 
 
@@ -152,27 +148,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaskiratCodeKaur&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaskiratCodeKaur&theme=radical&hide_border=true&layout=compact&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaskiratCodeKaur&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaskiratCodeKaur&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaskiratCodeKaur&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 <br>
 
