@@ -1,21 +1,25 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="profilebanner.gif" width="700" height="250">
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jaskirat+👋;Software+Developer+%7C+Open+Source+Enthusiast;Building+the+future+with+code+🚀" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaskiratcodekaur&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
 <br>
 
-## 👩 About Me
+## 🌱 About Me
 
-- 🎓 Graduate in **Software Development** from [Mohawk College](https://www.mohawkcollege.ca/)
-- 🌱 Currently learning **Kubernetes**, **Docker**, and **Generative AI/LLMs**
-- 💻 Passionate about building innovative software solutions and AI-powered applications
-- 🤝 Actively contributing to **Open Source Projects**
-- ☁️ Exploring Cloud Native technologies and DevOps practices
-- ⚡ Fun fact: **I love solving complex problems with elegant code solutions**
+- Graduate in **Software Development** from [Mohawk College](https://www.mohawkcollege.ca/)
+- Currently learning **Kubernetes**, **Docker**, and **Generative AI/LLMs**
+- Passionate about building innovative software solutions and AI-powered applications
+- Actively contributing to **Open Source Projects**
+- Exploring Cloud Native technologies and DevOps practices
+- Fun fact: **I love solving complex problems with elegant code solutions**
 
 ## 🧰 My toolbox:
 
@@ -156,37 +160,21 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaskiratCodeKaur&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaskiratCodeKaur&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaskiratCodeKaur&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaskiratCodeKaur&theme=radical&hide_border=true&layout=compact&langs_count=8"/>
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaskiratCodeKaur&theme=radical&hide_border=true&layout=compact" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=JaskiratCodeKaur&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaskiratCodeKaur&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaskiratCodeKaur&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
-</p>
-
-<details>
-  <summary>📈 More Stats</summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaskiratCodeKaur&theme=radical" />
-  </p>
-</details>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JaskiratCodeKaur&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaskiratCodeKaur&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
-
-<br>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect With Me:
 <a href="https://linkedin.com/in/jaskirat-kaur-216478290">
